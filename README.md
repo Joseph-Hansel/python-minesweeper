@@ -1,6 +1,6 @@
 <p align="center"><a href="https://group-9-minesweeper-project.vercel.app/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCwIdCYJnRmDUQnpDKNvY31bHNh_3NevoPjg&s" alt="minesweeper"></a></p>
 
-# Minesweeper Mini
+# Minesweeper Mini (or MiniSweeper)
 
 ## (Group 9 project - Phase 3 of SDF-FT14 - Python CLI)
 
@@ -17,12 +17,12 @@ To play the game, run the main.py file in the root folder:
 
 ## Overview; About the Project.
 
-MiniSweeper is a simplified version of the classic Minesweeper game. The goal is to create a functional and engaging game that can be played in a web browser.
+MiniSweeper is a simplified version of the classic Minesweeper game. The goal is to create a functional and engaging game that can be played from the command line.
 
 ### MVP Features:
 
 1. **Game Board**: A grid-based game board with randomly placed mines.
-2. **Gameplay**: Players can click on cells to reveal their contents. If a cell contains a mine, the game is over.
+2. **Gameplay**: Players can select cells to reveal their contents. If a cell contains a mine, the game is over.
 3. **Win Condition**: The game is won when all non-mine cells are revealed.
 
 ### User Interface
@@ -43,12 +43,9 @@ MiniSweeper is a simplified version of the classic Minesweeper game. The goal is
 ### Future Development
 
 - Add additional features, such as:
-    - Timer and score tracking.
     - Different difficulty levels (e.g., easy, medium, hard).
     - Customizable game board size.
-    - Animations and sound effects.
     - Revealing the number of adjacent mines if a  dug cell is empty.
-    - A button to reset the game and start a new round.
     
 ## Group members
 
