@@ -2,10 +2,10 @@ import random
 
 
 class Board:
-    def __init__(self, size=5, mines=3):
+    def __init__(self, size=10, mines=5):
         self.size = size
         self.mines = mines
-        self.grid = [[" " for _ in range(size)] for _ in range(size)]
+        self.grid = [["🟫" for _ in range(size)] for _ in range(size)]
         self.mine_positions = set()
         self._place_mines()
 
