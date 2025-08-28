@@ -12,7 +12,7 @@ To play the game, run the main.py file in the root folder:
 
     - $ git clone git@github.com:Joseph-Hansel/python-minesweeper.git
     - $ cd python-minesweeper
-    - $  source .venv/bin/activate     #If virtual environment not activated.
+    - $ source .venv/bin/activate     (If virtual environment not activated.)
     - $ python3 main.py
 
 
