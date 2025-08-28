@@ -10,15 +10,9 @@ To play the game, run the main.py file in the root folder:
 
 ###### In the terminal:
 
-    - $git clone [git@github.com:Joseph-Hansel/python-minesweeper.git](git@github.com:Joseph-Hansel/python-minesweeper.git)
-    - $cd python-minesweeper
-    - Michael Kyalo - User interaction with CLI
-
-   >$git clone [git@github.com:Joseph-Hansel/python-minesweeper.git](git@github.com:Joseph-Hansel/python-minesweeper.git)
-
-   >$cd python-minesweeper
-
-   >$python3 main.py
+    - $ git clone git@github.com:Joseph-Hansel/python-minesweeper.git
+    - $ cd python-minesweeper
+    - $ python3 main.py
 
 
 ## Overview; About the Project.
@@ -58,7 +52,7 @@ MiniSweeper is a simplified version of the classic Minesweeper game. The goal is
     
 ## Group members
 
-    - Vanessa Tchappi - Scrum Master - Game logic
-    - Joseph Hansel - Data Storage
-    - Michael Kyalo - User interaction with CLI
-    - Lyon Nganga - Game board generation
+- Vanessa Tchappi - Scrum Master - Game logic
+- Joseph Hansel - Data Storage
+- Michael Kyalo - User interaction with CLI
+- Lyon Nganga - Game board generation
