@@ -4,7 +4,7 @@ class GameLogic:
 
     def reveal(self, row, col):
         if (row, col) in self.board.mine_positions:
-            return False  # lose
+            return False  
         self.board.grid[row][col] = "⬜"
         return True
 
